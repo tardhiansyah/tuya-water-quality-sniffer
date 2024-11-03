@@ -14,4 +14,5 @@ This tool enables the interception, analysis, and interpretation of data sent by
 
 ## Schematic
 To connect the ESP32 with the Tuya MCU, refer to the wiring schematic below:
+
 ![image](https://github.com/user-attachments/assets/cb184789-240d-4fef-a5ac-7fbf8a5cb7a7)
