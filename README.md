@@ -18,3 +18,8 @@ To connect the ESP32 with the Tuya MCU, refer to the wiring schematic below:
 ![image](https://github.com/user-attachments/assets/cb184789-240d-4fef-a5ac-7fbf8a5cb7a7)
 
 > **Note**: Ensure voltage compatibility and grounding between the ESP32 and the Tuya MCU to avoid damage to the components.
+
+## Samples
+Below are example outputs from the Serial Monitor, showing captured messages and their decoded content.
+
+![image](https://github.com/user-attachments/assets/87ea550f-6134-4e59-ba16-4a1d7eb5c835)
