@@ -5,6 +5,7 @@ This tool enables the interception, analysis, and interpretation of data sent by
 
 ## Features
 - **UART Message Sniffing**: Capture and decode messages sent via RX/TX.
+- **Set Threshold**: Set new threshold for pH, temperature, and TDS levels without Tuya Apps. 
 - **Checksum Calculation**: Verify data integrity by calculating and comparing checksums.
 - **Data Structure Interpretation**: Analyze and interpret key data points such as pH, temperature, and TDS levels.
 
