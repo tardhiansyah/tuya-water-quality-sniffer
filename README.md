@@ -11,3 +11,6 @@ This tool enables the interception, analysis, and interpretation of data sent by
 ## Requirements
 - **Hardware**: ESP32 Dev Module, Tuya water quality MCU, Jumper wires
 - **Software**: PlatformIO
+
+## Schematic
+![image](https://github.com/user-attachments/assets/cb184789-240d-4fef-a5ac-7fbf8a5cb7a7)
