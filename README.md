@@ -10,7 +10,7 @@ This tool enables the interception, analysis, and interpretation of data sent by
 - **Data Structure Interpretation**: Analyze and interpret key data points such as pH, temperature, and TDS levels.
 
 ## Requirements
-- **Hardware**: ESP32 Dev Module, Tuya water quality MCU, Jumper wires
+- **Hardware**: ESP32 Dev Module, Tuya water quality MCU, Jumper wires, 2 Diodes, and a 10k resistor
 - **Software**: PlatformIO
 
 ## Schematic
