@@ -3,6 +3,9 @@
 This repository provides code and resources for using an ESP32 development module to sniff and decode UART messages from a Tuya water quality MCU. 
 This tool enables the interception, analysis, and interpretation of data sent by the MCU, giving insights into its communication protocols and data formats.
 
+![image](https://github.com/user-attachments/assets/ecb3e75d-d8b2-45e2-a19d-f85f5a9ba3bd)
+
+
 ## Features
 - **UART Message Sniffing**: Capture and decode messages sent via RX/TX.
 - **Set Threshold**: Set new threshold for pH, temperature, and TDS levels without Tuya Apps. 
