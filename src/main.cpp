@@ -18,9 +18,15 @@
 #define D_println(...)
 #endif
 
+// Function 
+void resetDevice();
+void logSensor(TuyaWaterQualitySensor& sensor);
+
 // Hardware serial and water quality sensor
 HardwareSerial TuyaSniffer(2);
 TuyaWaterQuality waterQuality;
+
+
 
 void setup() {
   D_begin(115200);
